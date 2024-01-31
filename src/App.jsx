@@ -5,8 +5,6 @@ const App = () => (
 	<div>
 		<ResponsiveAppBar />
 		<CardMui />
-		<CardMui />
-		<CardMui />
 	</div>
 );
 
